@@ -1,3 +1,4 @@
 # hello-world
-Hello Word
+Hello World
+
 Don Smith avid golfer
